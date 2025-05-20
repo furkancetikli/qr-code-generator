@@ -42,11 +42,11 @@ A simple Python script to generate QR codes with customizable **fill** and **bac
   
   See full color list: https://www.w3schools.com/tags/ref_colornames.asp
 
-7. Output
+6. Output
    
      -QR codes are saved as .png images in the same directory where the script is run.
 
-8. Future Ideas
+7. Future Ideas
    
      -Add GUI support with tkinter
    
